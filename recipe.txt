@@ -1,0 +1,5 @@
+go to kitchen
+choose ingreidient
+mix them all
+wait for a minute
+and done
